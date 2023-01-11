@@ -5,3 +5,7 @@ var fish = "goldfish"
 var numberDogs = 2
 var numberCats = 6
 var numberFish = 10
+
+var dogsFed = true
+var catsFed = true
+var fishFed = false
