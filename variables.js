@@ -9,3 +9,11 @@ var numberFish = 10
 var dogsFed = true
 var catsFed = true
 var fishFed = false
+
+dog = "chihuahua"
+cat = "calico"
+fish = "pirhana"
+
+console.log(dog)
+console.log(cat)
+console.log(fish)
